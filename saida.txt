@@ -1,0 +1,54 @@
+commit e0f2da35093b14fdee0aabc9d499c13b9e45c05b
+Merge: 3893e05 85e06e3
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Fri Aug 22 18:52:13 2025 -0500
+
+    Merge branch 'develop'
+
+commit 3893e057474c83677ddf577be516bd05d994fa6a
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Fri Aug 22 18:49:59 2025 -0500
+
+    feat: alteração no css da página
+
+commit 85e06e35e62f346c03c8269d1d347d98f9b67530
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Fri Aug 22 18:47:49 2025 -0500
+
+    feat: inclui a lista de produtos na página - Refs #4
+
+commit 8979ca88eeead088253f7647de28f9f692c1b75d
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Thu Aug 21 20:04:14 2025 -0500
+
+    feat: atualização do  HTML5 e CSS - REF #3
+
+commit b6ba903d81c5a1a1374f4e119e50fc5c064950f6
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Thu Aug 21 19:48:39 2025 -0500
+
+    feat: atualização do  HTML5 e CSS - REF #1
+
+commit bb0b88cdb23e68da98f4232b01117e6bd7124f20
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Thu Aug 21 19:36:44 2025 -0500
+
+    feat: atualização do  HTML5 e CSS
+
+commit 479b4826de44449c8f532182eb2eefb71bf3a112
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Thu Aug 21 19:27:41 2025 -0500
+
+    feat: atualização do README.md e add HTML5 e CSS
+
+commit 7567f3a75bf2bef61dce410e11b80185a7d418df
+Author: Cesar Santos <csar.santos18@gmail.com>
+Date:   Thu Aug 21 19:22:12 2025 -0500
+
+    feat: atualização do README.md e add HTML5 e CSS
+
+commit 900246f48d240e122e00771acf04c86c25477473
+Author: csarsantos96 <csar.santos18@gmail.com>
+Date:   Thu Aug 21 18:52:31 2025 -0500
+
+    Initial commit
